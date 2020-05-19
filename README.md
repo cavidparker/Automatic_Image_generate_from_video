@@ -1,3 +1,3 @@
-# Automatic_Image_generate_from_video :
+# Automatic Image generate from video :
 
 ![](Image.png)
